@@ -13,9 +13,8 @@ for running the project
 use the following
 ~~ ``` npm run dev ```
 for more information about the running and debugging process
-visit ```
+visit 
 https://vitejs.dev/
 
-```
 
 
