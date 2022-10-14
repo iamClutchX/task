@@ -1,0 +1,29 @@
+Thank you for your interest in our internship opening. As a next step, we expect you to complete a short assignment below for the Full Stack Engineering role
+
+Reference Dummy APIs:  Examples 
+
+http://dummy.restapiexample.com/ 
+
+https://reqres.in/
+
+Implement the following solution:- 
+
+1) Develop an API to perform Create, Update Methods, and load API data in the component only once //half
+ https://test-data-server.herokuapp.com/
+
+2) Update a grid when adding a row without server call/ API refresh
+ 
+3) Show or hide a component depending upon state. //complete
+
+4) Render different components for desktop /mobile for different views //done 
+
+5) Store all your data in Mongodb- Collection //done 
+
+6) Create a Dashboard using ReactJS/ChartJS +Nodejs, and interpret your data in any chart (Bar diagram/ Piechart or anything else)
+
+
+
+
+Thanks,
+Deepa
+Submission deadline: 14 October, 2022
