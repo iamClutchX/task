@@ -1,10 +1,11 @@
  https://test-data-server.herokuapp.com/
-  ###for using get api : 
+ 
+ #for using get api : 
  ```
  https://test-data-server.herokuapp.com/
  
  ```
- ###Post
+ #Post
  ```
  https://test-data-server.herokuapp.com/users/
  ```
@@ -12,7 +13,7 @@
  ```
  https://test-data-server.herokuapp.com/users/id
  ```
- ###delete
+ #delete
  ```
  https://test-data-server.herokuapp.com/id
  ```
