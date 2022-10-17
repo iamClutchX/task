@@ -5,8 +5,8 @@ const bodyParser = require("body-parser");
 const app = express();
 const Users = require("./modles/TestDataModel");
 
-// const CONNECTION_URL = "mongodb://localhost:27017/TestData";
-const CONNECTION_URL = "mongodb+srv://abc:123@cluster0.kcyrqot.mongodb.net/TestData?retryWrites=true&w=majority";
+ const CONNECTION_URL = "mongodb://localhost:27017/TestData";
+
 const PORT = process.env.PORT || 5000;
 
 mongoose
